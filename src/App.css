@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+}
+
+.markdownEditor {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+#markdown-content {
+  width: 50vw;
+  margin: 1rem;
+}
